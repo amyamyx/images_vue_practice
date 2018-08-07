@@ -19,3 +19,4 @@ npm run build
 ```
 npm run lint
 ```
+# images_vue_practice
